@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "iransans";
+  src: url("../assets/fonts/iran-sans.ttf");
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.fa-font {
+  font-family: "iransans";
+}
